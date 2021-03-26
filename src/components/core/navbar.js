@@ -1,7 +1,6 @@
 import React from 'react'
-import './form.scss'
 
-const Form = () => {
+const Navbar = () => {
 
     return(
 
@@ -9,4 +8,4 @@ const Form = () => {
     )
 }   
 
-export default Form
+export default Navbar

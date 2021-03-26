@@ -1,7 +1,6 @@
 import React from 'react'
-import './icons.scss'
 
-const Icons = () => {
+const Form = () => {
 
     return(
 
@@ -9,4 +8,4 @@ const Icons = () => {
     )
 }   
 
-export default Icons
+export default Form

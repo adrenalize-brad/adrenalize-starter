@@ -4,8 +4,9 @@ const IndexPage = () => {
 
     return(
 
-        <div>
-            Awesome starts here!
+        <div className="flex flex-row items-center justify-center">
+
+
         </div>
 
     )

@@ -1,7 +1,6 @@
 import React from 'react'
-import './layout.scss'
 
-const Layout = () => {
+const Icons = () => {
 
     return(
 
@@ -9,4 +8,4 @@ const Layout = () => {
     )
 }   
 
-export default Layout
+export default Icons
